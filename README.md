@@ -128,6 +128,16 @@ No terminal, execute o comando desejado:
 
 ---
 
+## 🖼️ Evidências dos Testes
+
+![Evidência 1](./assets/img/imagem1.png)
+
+![Evidência 2](./assets/img/imagem2.png)
+
+![Evidência 3](./assets/img/imagem3.png)
+
+---
+
 ## 📋 Plano de Testes Detalhado
 
 Para consultar os 15 casos de teste detalhados com **ID, Responsável, Pré-condições, Passos e Resultados Esperados**, consulte o documento:
